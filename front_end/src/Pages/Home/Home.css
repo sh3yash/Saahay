@@ -1,0 +1,156 @@
+.header a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .header a.logo:hover {
+    background-color: black;
+  }
+  
+  .header a:hover {
+    background-color: rgb(86, 246, 11);
+    color: black;
+  }
+  
+  .header a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+  .header-right {
+    float: right;
+  }
+  .subnav {
+    float: left;
+    overflow: hidden;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .subnav .subnavbtn {
+    border: none;
+    outline: none;
+    color: white;
+  
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  
+  .subnav-content {
+    display: none;
+    position: absolute;
+  
+    background-color: black;
+    z-index: 1;
+  }
+  
+  .subnav-content a {
+    float: left;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .subnav-content a:hover {
+    background-color: rgb(6, 240, 26);
+    color: black;
+  }
+  
+  .subnav:hover .subnav-content {
+    display: block;
+  }
+  .header {
+    overflow: hidden;
+    background-color: black;
+    padding: 10px 30px ;
+  }
+  
+  .header a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .header a.logo:hover {
+    background-color: black;
+  }
+  
+  .header a:hover {
+    background-color: rgb(86, 246, 11);
+    color: black;
+  }
+  
+  .header a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+  .header-right {
+    float: right;
+  }
+  .subnav {
+    float: left;
+    overflow: hidden;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .subnav .subnavbtn {
+    border: none;
+    outline: none;
+    color: white;
+  
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  
+  .subnav-content {
+    display: none;
+    position: absolute;
+  
+    background-color: black;
+    z-index: 1;
+  }
+  
+  .subnav-content a {
+    float: left;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .subnav-content a:hover {
+    background-color: rgb(6, 240, 26);
+    color: black;
+  }
+  
+  .subnav:hover .subnav-content {
+    display: block;
+  }
